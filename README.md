@@ -8,5 +8,5 @@ LoL - Valorant Offline Mode
 
 Manuel:
 
-for offline = `netsh advfirewall firewall add rule name="lolchat" dir=out remoteip={serverip} protocol=TCP action=block`
+for offline = `netsh advfirewall firewall add rule name="lolchat" dir=out remoteip={serverip} protocol=TCP action=block`         
 for online = `netsh advfirewall firewall delete rule name="lolchat"`
