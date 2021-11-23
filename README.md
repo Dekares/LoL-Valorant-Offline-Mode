@@ -7,5 +7,6 @@ LoL - Valorant Offline Mode
 [Click here to download compiled version (You must start as a administrator)](https://github.com/Dekares/LoL-Valorant-Offline-Mode/releases/tag/compiled "Click here to download compiled version (You must start as a administrator)")
 
 Manuel:
+
 for offline = `netsh advfirewall firewall add rule name="lolchat" dir=out remoteip={serverip} protocol=TCP action=block`
 for online = `netsh advfirewall firewall delete rule name="lolchat"`
