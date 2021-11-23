@@ -1,0 +1,12 @@
+TR: 	tr1.chat.si.riotgames.com	172.65.202.166
+EUNE: 	eun1.chat.si.riotgames.com	172.65.223.136
+EUW: 	euw1.chat.si.riotgames.com	172.65.252.238
+JP: 	jp1.chat.si.riotgames.com	172.65.217.212
+KR: 	kr1.chat.si.riotgames.com	172.65.226.99
+LAN: 	la1.chat.si.riotgames.com	172.65.250.49
+LAS: 	la2.chat.si.riotgames.com	172.65.194.233
+NA: 	na2.chat.si.riotgames.com	172.65.244.155
+OCE: 	oc1.chat.si.riotgames.com	172.65.208.61
+PBE: 	pbe1.chat.si.riotgames.com	172.65.223.16
+RU: 	ru1.chat.si.riotgames.com	172.65.192.156	
+BR: 	br.chat.si.riotgames.com	172.65.212.1
